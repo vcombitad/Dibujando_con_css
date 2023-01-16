@@ -118,15 +118,111 @@ grid-template-rows: repeat(26, 1fr);
     grid-column: 6/14;
     grid-row: 16/17;
 }
-.black-14 {
+.black-18 {
     display: grid;
     background: black;
-    grid-column: 6/15;
-    grid-row: 4/5;
+    grid-column: 15/16;
+    grid-row: 16/17;
 }
-.black-14 {
+.black-19 {
     display: grid;
     background: black;
-    grid-column: 6/15;
-    grid-row: 4/5;
+    grid-column: 16/17;
+    grid-row: 17/18;
+}
+.black-20 {
+    display: grid;
+    background: black;
+    grid-column: 4/5;
+    grid-row: 16/17;
+}
+.black-21 {
+    display: grid;
+    background: black;
+    grid-column: 3/4;
+    grid-row: 17/18;
+}
+.black-22 {
+    display: grid;
+    background: black;
+    grid-column: 2/3;
+    grid-row: 18/24;
+}
+.black-23 {
+    display: grid;
+    background: black;
+    grid-column: 17/18;
+    grid-row: 18/24;
+}
+.black-24 {
+    display: grid;
+    background: black;
+    grid-column: 3/5;
+    grid-row: 23/24;
+}
+.black-25 {
+    display: grid;
+    background: black;
+    grid-column: 15/17;
+    grid-row: 23/24;
+}
+.black-26 {
+    display: grid;
+    background: black;
+    grid-column: 5/6;
+    grid-row: 18/26;
+}
+.black-27 {
+    display: grid;
+    background: black;
+    grid-column: 14/15;
+    grid-row: 18/26;
+}
+.black-28 {
+    display: grid;
+    background: black;
+    grid-column: 6/14;
+    grid-row: 25/26;
+}
+.black-29 {
+    display: grid;
+    background: black;
+    grid-column: 3/5;
+    grid-row: 20/21;
+}
+.black-30 {
+    display: grid;
+    background: black;
+    grid-column: 15/17;
+    grid-row: 20/21;
+}
+.black-31 {
+    display: grid;
+    background: black;
+    grid-column: 12/13;
+    grid-row: 18/19;
+}
+.black-32 {
+    display: grid;
+    background: black;
+    grid-column: 7/8;
+    grid-row: 18/19;
+}
+.black-33 {
+    display: grid;
+    background: black;
+    grid-column: 11/12;
+    grid-row: 19/20;
+}
+.black-34 {
+    display: grid;
+    background: black;
+    grid-column: 8/9;
+    grid-row: 19/20;
+}
+.black-35 {
+    display: grid;
+    background: black;
+    grid-column: 9/11;
+    grid-row: 18/21;
 }
