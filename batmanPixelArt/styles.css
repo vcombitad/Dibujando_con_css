@@ -1,0 +1,72 @@
+main {
+    width: 600px;
+    height: 600px;
+    background: whitesmoke;
+    margin-left: 20vw;
+    margin-top: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grilla {
+    display: grid;
+    width: 550px;
+    height: 550px;
+   grid-template-columns: repeat(18, 1fr);
+grid-template-rows: repeat(26, 1fr);
+}
+.black {
+    display: grid;
+    background: black;
+    grid-column: 3/5;
+    grid-row: 2/3;
+}
+.black-2 {
+    display: grid;
+    background: black;
+    grid-column: 3/4;
+    grid-row: 3/8;
+}
+.black-3 {
+    display: grid;
+    background: black;
+    grid-column: 2/3;
+    grid-row: 8/13;
+}
+.black-4 {
+    display: grid;
+    background: black;
+    grid-column: 3/4;
+    grid-row: 13/14;
+}
+.black-3 {
+    display: grid;
+    background: black;
+    grid-column: 2/3;
+    grid-row: 8/13;
+}
+.black-3 {
+    display: grid;
+    background: black;
+    grid-column: 2/3;
+    grid-row: 8/13;
+}
+.black-3 {
+    display: grid;
+    background: black;
+    grid-column: 2/3;
+    grid-row: 8/13;
+}
+.black-3 {
+    display: grid;
+    background: black;
+    grid-column: 2/3;
+    grid-row: 8/13;
+}
+.black-3 {
+    display: grid;
+    background: black;
+    grid-column: 2/3;
+    grid-row: 8/13;
+}
