@@ -16,6 +16,7 @@ main {
    grid-template-columns: repeat(18, 1fr);
 grid-template-rows: repeat(26, 1fr);
 }
+
 .black {
     display: grid;
     background: black;
@@ -225,4 +226,102 @@ grid-template-rows: repeat(26, 1fr);
     background: black;
     grid-column: 9/11;
     grid-row: 18/21;
+}
+.blue-1 {
+    display: grid;
+    background: rgb(23, 23, 83);
+    grid-column: 3/4;
+    grid-row: 8/13;
+    border: 2px solid rgb(23, 23, 83);
+}
+.blue-2 {
+    display: grid;
+    background: rgb(23, 23, 83);
+    grid-column: 16/17;
+    grid-row: 8/13;
+    border: 2px solid rgb(23, 23, 83);
+}
+.blue-3 {
+    display: grid;
+    background: rgb(23, 23, 83);
+    grid-column: 4/5;
+    grid-row: 3/12;
+    border: 2px solid rgb(23, 23, 83);
+}
+.blue-4 {
+    display: grid;
+    background: rgb(23, 23, 83);
+    grid-column: 15/16;
+    grid-row: 3/12;
+    border: 2px solid rgb(23, 23, 83);
+}
+.blue-5 {
+    display: grid;
+    background: rgb(23, 23, 83);
+    grid-column: 5/6;
+    grid-row: 6/12;
+    border: 2px solid rgb(23, 23, 83);
+}
+.blue-6 {
+    display: grid;
+    background: rgb(23, 23, 83);
+    grid-column: 14/15;
+    grid-row: 6/12;
+    border: 2px solid rgb(23, 23, 83);
+}
+.blue-7 {
+    display: grid;
+    background: rgb(23, 23, 83);
+    grid-column: 6/14;
+    grid-row: 5/12;
+    border: 2px solid rgb(23, 23, 83);
+}
+.blue-8 {
+    display: grid;
+    background: rgb(23, 23, 83);
+    grid-column: 3/5;
+    grid-row: 19/20;
+    border: 2px solid rgb(23, 23, 83);
+}
+.blue-9 {
+    display: grid;
+    background: rgb(23, 23, 83);
+    grid-column: 15/17;
+    grid-row: 19/20;
+    border: 2px solid rgb(23, 23, 83);
+}
+.blue-10 {
+    display: grid;
+    background: rgb(23, 23, 83);
+    grid-column: 3/5;
+    grid-row: 21/23;
+    border: 2px solid rgb(23, 23, 83);
+}
+.blue-11 {
+    display: grid;
+    background: rgb(23, 23, 83);
+    grid-column: 15/17;
+    grid-row: 21/23;
+    border: 2px solid rgb(23, 23, 83);
+}
+.blue-12 {
+    display: grid;
+    background: rgb(23, 23, 83);
+    grid-column: 6/14;
+    grid-row: 22/23;
+    border: 2px solid rgb(23, 23, 83);
+}
+.blue-13 {
+    display: grid;
+    background: rgb(23, 23, 83);
+    grid-column: 6/9;
+    grid-row: 24/25;
+    border: 2px solid rgb(23, 23, 83);
+}
+.blue-14 {
+    display: grid;
+    background: rgb(23, 23, 83);
+    grid-column: 11/14;
+    grid-row: 24/25;
+    border: 2px solid rgb(23, 23, 83);
 }
