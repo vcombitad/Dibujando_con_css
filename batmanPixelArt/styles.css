@@ -1,6 +1,6 @@
 main {
     width: 600px;
-    height: 600px;
+    height: 867px;
     background: whitesmoke;
     margin-left: 20vw;
     margin-top: 2vw;
@@ -12,7 +12,7 @@ main {
 .grilla {
     display: grid;
     width: 550px;
-    height: 550px;
+    height: 817px;
    grid-template-columns: repeat(18, 1fr);
 grid-template-rows: repeat(26, 1fr);
 }
@@ -40,33 +40,93 @@ grid-template-rows: repeat(26, 1fr);
     grid-column: 3/4;
     grid-row: 13/14;
 }
-.black-3 {
+.black-5 {
     display: grid;
     background: black;
-    grid-column: 2/3;
-    grid-row: 8/13;
+    grid-column: 4/5;
+    grid-row: 12/15;
 }
-.black-3 {
+.black-6 {
     display: grid;
     background: black;
-    grid-column: 2/3;
-    grid-row: 8/13;
+    grid-column: 5/16;
+    grid-row: 12/13;
 }
-.black-3 {
+.black-7 {
     display: grid;
     background: black;
-    grid-column: 2/3;
-    grid-row: 8/13;
+    grid-column: 15/16;
+    grid-row: 12/15;
 }
-.black-3 {
+.black-8 {
     display: grid;
     background: black;
-    grid-column: 2/3;
-    grid-row: 8/13;
+    grid-column: 16/17;
+    grid-row: 13/14;
 }
-.black-3 {
+.black-9 {
     display: grid;
     background: black;
-    grid-column: 2/3;
-    grid-row: 8/13;
+    grid-column: 17/18;
+    grid-row: 13/8;
+}
+.black-10 {
+    display: grid;
+    background: black;
+    grid-column: 16/17;
+    grid-row: 8/2;
+}
+.black-11 {
+    display: grid;
+    background: black;
+    grid-column: 15/16;
+    grid-row: 2/3;
+}
+.black-12 {
+    display: grid;
+    background: black;
+    grid-column: 14/15;
+    grid-row: 3/6;
+}
+.black-13 {
+    display: grid;
+    background: black;
+    grid-column: 5/6;
+    grid-row: 3/6;
+}
+.black-14 {
+    display: grid;
+    background: black;
+    grid-column: 6/15;
+    grid-row: 4/5;
+}
+.black-15 {
+    display: grid;
+    background: black;
+    grid-column: 5/6;
+    grid-row: 15/16;
+}
+.black-16 {
+    display: grid;
+    background: black;
+    grid-column: 14/15;
+    grid-row: 15/16;
+}
+.black-17 {
+    display: grid;
+    background: black;
+    grid-column: 6/14;
+    grid-row: 16/17;
+}
+.black-14 {
+    display: grid;
+    background: black;
+    grid-column: 6/15;
+    grid-row: 4/5;
+}
+.black-14 {
+    display: grid;
+    background: black;
+    grid-column: 6/15;
+    grid-row: 4/5;
 }
