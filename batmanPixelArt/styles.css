@@ -227,6 +227,12 @@ grid-template-rows: repeat(26, 1fr);
     grid-column: 9/11;
     grid-row: 18/21;
 }
+.black-36 {
+    display: grid;
+    background: black;
+    grid-column: 9/11;
+    grid-row: 23/25;
+}
 .blue-1 {
     display: grid;
     background: rgb(23, 23, 83);
